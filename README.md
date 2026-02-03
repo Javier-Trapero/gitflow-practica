@@ -67,3 +67,4 @@ Rama de integración para el desarrollo activo.
 - Sistema de reportes completo
 - Notificaciones en tiempo real
 - Mejoras de rendimiento
+- Optimización de consultas SQL
