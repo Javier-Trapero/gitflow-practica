@@ -23,3 +23,15 @@ Rama de integración para el desarrollo activo.
 - Endpoints CRUD completos
 - Documentación con Swagger
 - Rate limiting y autenticación API
+
+---
+## Release 1.0.0
+**Fecha:** Febrero 2026
+**Estado:** Preparación
+
+### Cambios incluidos:
+- Sistema de login completo
+- Dashboard de usuario
+- API REST integrada
+- Correcciones de documentación
+- Ajustes finales de UI
