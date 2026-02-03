@@ -22,3 +22,4 @@ Rama de integración para el desarrollo activo.
 ### Feature: Integración API REST
 - Endpoints CRUD completos
 - Documentación con Swagger
+- Rate limiting y autenticación API
