@@ -17,3 +17,4 @@ Rama de integración para el desarrollo activo.
 ### Feature: Dashboard de Usuario
 - Panel de control principal
 - Widgets personalizables
+- Gráficas de estadísticas
