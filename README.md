@@ -50,3 +50,4 @@ Rama de integración para el desarrollo activo.
 - Generación de informes PDF
 - Exportación a Excel
 - Reportes programados
+- Plantillas personalizables
