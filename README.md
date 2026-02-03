@@ -56,3 +56,4 @@ Rama de integración para el desarrollo activo.
 - Notificaciones en tiempo real
 - Email y push notifications
 - Centro de notificaciones
+- Preferencias de usuario para notificaciones
