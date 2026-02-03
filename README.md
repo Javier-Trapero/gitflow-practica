@@ -34,3 +34,4 @@ Rama de integración para el desarrollo activo.
 - Dashboard de usuario
 - API REST integrada
 - Correcciones de documentación
+- Ajustes finales de UI
