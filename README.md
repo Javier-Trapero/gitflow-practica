@@ -45,3 +45,9 @@ Rama de integración para el desarrollo activo.
 - Patch de seguridad en JWT
 - Validación adicional de tokens
 - Tests de regresión añadidos
+
+### Feature: Sistema de Reportes
+- Generación de informes PDF
+- Exportación a Excel
+- Reportes programados
+- Plantillas personalizables
