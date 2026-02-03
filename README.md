@@ -69,3 +69,8 @@ Rama de integración para el desarrollo activo.
 - Mejoras de rendimiento
 - Optimización de consultas SQL
 - Actualización de dependencias
+
+### Feature: Motor de Búsqueda Avanzada (EN DESARROLLO)
+- Búsqueda full-text
+- Filtros avanzados
+- Auto-completado
