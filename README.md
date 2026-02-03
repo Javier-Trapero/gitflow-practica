@@ -18,3 +18,8 @@ Rama de integración para el desarrollo activo.
 - Panel de control principal
 - Widgets personalizables
 - Gráficas de estadísticas
+
+### Feature: Integración API REST
+- Endpoints CRUD completos
+- Documentación con Swagger
+- Rate limiting y autenticación API
