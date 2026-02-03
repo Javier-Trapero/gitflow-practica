@@ -6,3 +6,8 @@ Este repositorio demuestra un flujo completo de trabajo con Git-Flow.
 
 ## Rama Develop
 Rama de integración para el desarrollo activo.
+
+### Feature: Sistema de Login
+- Autenticación de usuarios
+- Validación de credenciales
+- Gestión de sesiones
