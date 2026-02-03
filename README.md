@@ -12,3 +12,4 @@ Rama de integración para el desarrollo activo.
 - Validación de credenciales
 - Gestión de sesiones
 - Hash de contraseñas con bcrypt
+- Sistema de tokens JWT
