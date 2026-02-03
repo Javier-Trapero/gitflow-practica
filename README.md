@@ -7,19 +7,19 @@ Este repositorio demuestra un flujo completo de trabajo con Git-Flow.
 ## Rama Develop
 Rama de integración para el desarrollo activo.
 
-### Feature: Sistema de Login
+###  Sistema de Login
 - Autenticación de usuarios
 - Validación de credenciales
 - Gestión de sesiones
 - Hash de contraseñas con bcrypt
 - Sistema de tokens JWT
 
-### Feature: Dashboard de Usuario
+###  Dashboard de Usuario
 - Panel de control principal
 - Widgets personalizables
 - Gráficas de estadísticas
 
-### Feature: Integración API REST
+### Integración API REST
 - Endpoints CRUD completos
 - Documentación con Swagger
 - Rate limiting y autenticación API
@@ -46,13 +46,13 @@ Rama de integración para el desarrollo activo.
 - Validación adicional de tokens
 - Tests de regresión añadidos
 
-### Feature: Sistema de Reportes
+### Sistema de Reportes
 - Generación de informes PDF
 - Exportación a Excel
 - Reportes programados
 - Plantillas personalizables
 
-### Feature: Sistema de Notificaciones
+### Sistema de Notificaciones
 - Notificaciones en tiempo real
 - Email y push notifications
 - Centro de notificaciones
