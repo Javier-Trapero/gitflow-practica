@@ -45,3 +45,27 @@ Rama de integración para el desarrollo activo.
 - Patch de seguridad en JWT
 - Validación adicional de tokens
 - Tests de regresión añadidos
+
+### Feature: Sistema de Reportes
+- Generación de informes PDF
+- Exportación a Excel
+- Reportes programados
+- Plantillas personalizables
+
+### Feature: Sistema de Notificaciones
+- Notificaciones en tiempo real
+- Email y push notifications
+- Centro de notificaciones
+- Preferencias de usuario para notificaciones
+
+---
+## Release 1.1.0
+**Fecha:** Febrero 2026
+**Estado:** Preparación
+
+### Nuevas funcionalidades:
+- Sistema de reportes completo
+- Notificaciones en tiempo real
+- Mejoras de rendimiento
+- Optimización de consultas SQL
+- Actualización de dependencias
