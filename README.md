@@ -11,3 +11,4 @@ Rama de integración para el desarrollo activo.
 - Autenticación de usuarios
 - Validación de credenciales
 - Gestión de sesiones
+- Hash de contraseñas con bcrypt
