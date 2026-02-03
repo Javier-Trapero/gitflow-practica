@@ -13,3 +13,7 @@ Rama de integración para el desarrollo activo.
 - Gestión de sesiones
 - Hash de contraseñas con bcrypt
 - Sistema de tokens JWT
+
+### Feature: Dashboard de Usuario
+- Panel de control principal
+- Widgets personalizables
