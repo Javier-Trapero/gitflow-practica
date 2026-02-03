@@ -51,3 +51,8 @@ Rama de integración para el desarrollo activo.
 - Exportación a Excel
 - Reportes programados
 - Plantillas personalizables
+
+### Feature: Sistema de Notificaciones
+- Notificaciones en tiempo real
+- Email y push notifications
+- Centro de notificaciones
