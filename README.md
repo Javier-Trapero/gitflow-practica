@@ -74,3 +74,4 @@ Rama de integración para el desarrollo activo.
 - Búsqueda full-text
 - Filtros avanzados
 - Auto-completado
+- Índices de búsqueda optimizados
