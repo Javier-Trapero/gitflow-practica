@@ -33,3 +33,4 @@ Rama de integración para el desarrollo activo.
 - Sistema de login completo
 - Dashboard de usuario
 - API REST integrada
+- Correcciones de documentación
