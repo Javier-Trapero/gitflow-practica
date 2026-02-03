@@ -44,3 +44,4 @@ Rama de integración para el desarrollo activo.
 ### Correcciones:
 - Patch de seguridad en JWT
 - Validación adicional de tokens
+- Tests de regresión añadidos
