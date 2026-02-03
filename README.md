@@ -35,3 +35,13 @@ Rama de integración para el desarrollo activo.
 - API REST integrada
 - Correcciones de documentación
 - Ajustes finales de UI
+
+---
+## Hotfix 1.0.1
+**Urgencia:** CRÍTICA
+**Problema:** Vulnerabilidad de seguridad en autenticación
+
+### Correcciones:
+- Patch de seguridad en JWT
+- Validación adicional de tokens
+- Tests de regresión añadidos
