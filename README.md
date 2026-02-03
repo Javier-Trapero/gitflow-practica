@@ -57,3 +57,15 @@ Rama de integración para el desarrollo activo.
 - Email y push notifications
 - Centro de notificaciones
 - Preferencias de usuario para notificaciones
+
+---
+## Release 1.1.0
+**Fecha:** Febrero 2026
+**Estado:** Preparación
+
+### Nuevas funcionalidades:
+- Sistema de reportes completo
+- Notificaciones en tiempo real
+- Mejoras de rendimiento
+- Optimización de consultas SQL
+- Actualización de dependencias
